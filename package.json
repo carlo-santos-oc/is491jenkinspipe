@@ -1,0 +1,25 @@
+{
+  "name": "is491jenkinspipe",
+  "version": "1.0.0",
+  "description": "node react jenkins project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlo-santos-oc/is491jenkinspipe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlo-santos-oc/is491jenkinspipe/issues"
+  },
+  "homepage": "https://github.com/carlo-santos-oc/is491jenkinspipe#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.13.4"
+  }
+}
